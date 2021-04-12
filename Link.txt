@@ -3,3 +3,6 @@ https://public.roboflow.com/object-detection/self-driving-car
 
 The pretrained model ImageAI can be found here:
 https://github.com/OlafenwaMoses/ImageAI/releases/download/essentials-v5/resnet50_coco_best_v2.1.0.h5/
+
+Youtube video of presentation:
+https://youtu.be/pmCWhJUNRWA
